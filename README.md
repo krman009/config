@@ -54,6 +54,10 @@ import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4b
 
 Fork this repo, or just copy-paste things you need, and make it your own. **Please be sure to change your `.gitconfig` name and email address though!**
 
+## Where is `.gitconfig` located in Win 8?
+
+In, `C:\Users\"Your Username"\.gitconfig`
+
 ## Works on my machine
 
 Yup, it does. Hopefully it does on yours as well, but please don't hate me if it doesn't.
